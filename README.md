@@ -16,7 +16,7 @@ public용으로 프로젝트 코드의 일부만 공개되어 있습니다.
 - Prompt Engineering
 - collaborators
   - [Dohwan](https://github.com/ehghks021203)
-  - [Sinyeong]
+  - [Sinyeong](https://github.com/jealmigithub)
 <br><br>
 
 # 📱 App
